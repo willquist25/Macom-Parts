@@ -1,0 +1,180 @@
+{
+  "gain block": [
+    "frequency range",
+    "gain",
+    "noise figure",
+    "output power",
+    "p1db",
+    "oip3",
+    "input return loss",
+    "output return loss",
+    "dc supply voltage",
+    "dc current"
+  ],
+  "catv amplifier": [
+    "frequency range",
+    "gain flatness",
+    "noise figure",
+    "composite triple beat",
+    "composite second order",
+    "input return loss",
+    "output return loss",
+    "power consumption"
+  ],
+  "distributed amplifier": [
+    "frequency range",
+    "gain",
+    "gain flatness",
+    "noise figure",
+    "p1db",
+    "oip3",
+    "impedance matching",
+    "power supply requirements"
+  ],
+  "hybrid amplifier": [
+    "bandwidth",
+    "gain",
+    "noise figure",
+    "p1db",
+    "oip3",
+    "power supply",
+    "thermal performance"
+  ],
+  "linear amplifier": [
+    "gain",
+    "oip3",
+    "p1db",
+    "noise figure",
+    "gain flatness",
+    "input return loss",
+    "output return loss",
+    "power supply voltage"
+  ],
+  "low noise amplifier": [
+    "frequency range",
+    "noise figure",
+    "gain",
+    "input return loss",
+    "oip3",
+    "p1db",
+    "dc power supply"
+  ],
+  "low phase noise amplifier": [
+    "phase noise performance",
+    "frequency range",
+    "gain",
+    "noise figure",
+    "power supply",
+    "linearity metrics"
+  ],
+  "rf power amplifier": [
+    "output power",
+    "gain",
+    "efficiency",
+    "oip3",
+    "vswr tolerance",
+    "thermal management",
+    "supply voltage",
+    "supply current"
+  ],
+  "gan mmic amplifier": [
+    "output power",
+    "pae",
+    "frequency range",
+    "gain",
+    "oip3",
+    "thermal resistance",
+    "supply voltage"
+  ],
+  "rf transimpedance amplifier": [
+    "transimpedance gain",
+    "bandwidth",
+    "input noise current",
+    "input capacitance",
+    "output swing",
+    "power supply requirements"
+  ],
+  "variable gain amplifier": [
+    "gain range",
+    "gain control method",
+    "oip3",
+    "noise figure",
+    "frequency range",
+    "power supply"
+  ],
+  "switch": [
+    "frequency range",
+    "insertion loss",
+    "isolation",
+    "vswr",
+    "switching speed",
+    "power handling",
+    "control voltage",
+    "topology"
+  ],
+  "attenuator": [
+    "attenuation range",
+    "step size",
+    "insertion loss",
+    "return loss",
+    "power handling",
+    "control method",
+    "frequency range"
+  ],
+  "coupler": [
+    "coupling factor",
+    "directivity",
+    "insertion loss",
+    "isolation",
+    "frequency range",
+    "power handling",
+    "vswr"
+  ],
+  "oscillator": [
+    "output frequency",
+    "phase noise",
+    "output power",
+    "frequency stability",
+    "supply voltage",
+    "harmonic levels",
+    "spurious levels"
+  ],
+  "mixer": [
+    "rf frequency range",
+    "lo frequency range",
+    "if frequency range",
+    "conversion loss",
+    "isolation",
+    "ip3",
+    "lo drive level",
+    "vswr"
+  ],
+  "frequency multiplier": [
+    "input frequency",
+    "output frequency",
+    "conversion gain",
+    "conversion loss",
+    "harmonic suppression",
+    "input return loss",
+    "output return loss",
+    "supply voltage"
+  ],
+  "frequency divider": [
+    "input frequency range",
+    "output frequency range",
+    "division ratio",
+    "output amplitude balance",
+    "phase balance",
+    "insertion loss",
+    "vswr"
+  ],
+  "synthesizer": [
+    "frequency range",
+    "phase noise",
+    "step size",
+    "switching speed",
+    "output power",
+    "spurious levels",
+    "power supply"
+  ]
+}
